@@ -35,7 +35,7 @@ Get the latest release from the [Releases](../../releases) page.
 
 ## Built With
 
-- C# / .NET 8
+- C# / .NET 7
 - Windows Forms (custom dark theme)
 - Sysinternals handle64.exe (embedded)
 
